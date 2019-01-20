@@ -1,0 +1,4 @@
+pytuya
+pycrypto
+Django
+schedule
