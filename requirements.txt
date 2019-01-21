@@ -1,4 +1,3 @@
 pytuya
 pycrypto
-Django
 schedule
